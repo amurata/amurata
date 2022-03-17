@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![amurata's GitHub stats](https://github-readme-stats.vercel.app/api?username=amurata&show_icons=true&count_private=true)
+
 <!--
 **amurata/amurata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
