@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+memo
+https://www.w3schools.com/react/react_props.asp
 
 <!-- ![amurata's GitHub stats](https://github-readme-stats.vercel.app/api?username=amurata&show_icons=true&count_private=true) -->
 
